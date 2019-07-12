@@ -3,8 +3,3 @@ https://112.13.96.193
 http://etool.komect.net/etool/#/login/0
 svn地址：
 http://svn.komect.net/dHome/DHOME/doc/开发库/工程/02设计文档/00接口设计文档
-http://svn.komect.net/cmcs/zdyy/DHOME
-
-
-git server地址：
-http://git.komect.net/DHOME/0106_dhome_gateway_server.git
